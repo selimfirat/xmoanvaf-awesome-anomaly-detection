@@ -48,6 +48,8 @@ The papers are orgnized in classical method, deep learning method, application a
 
 - [MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) - AAAI 2020.
 
+- [PySAD: A Streaming Anomaly Detection Framework in Python](https://arxiv.org/pdf/2009.02572.pdf) - arXiv 2020.
+
 
 ## Deep Learning Method
 
